@@ -1,0 +1,17 @@
+{
+  "name": "mytodolist",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "live": "live-server",
+    "dev": "dev-server",
+    "serve": "serve"
+  },
+  "author": "davidOren",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
